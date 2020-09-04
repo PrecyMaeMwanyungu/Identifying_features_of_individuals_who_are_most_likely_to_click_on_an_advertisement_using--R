@@ -5,9 +5,9 @@
  * Precy Mae Mwanyungu
 
 ## PROJECT DESCRIPTION
-A Kenyan blogger started a cryptocurrency course which she runs adverts on her blog to advertise
-the course. Over the years, she has been collecting data on the individuals who visit her blog and
+A Kenyan blogger started a cryptocurrency course which she gets to advertise on her blog. Over the years, she has been collecting data on the individuals who visit her blog and
 whether or not they click on the advertisement.
+
 The project's objective is to inform the business lady the various features of individuals that are most likely to click on her ads.
   
 
